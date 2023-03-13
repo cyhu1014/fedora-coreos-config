@@ -130,6 +130,7 @@ packages:
   - nfs-utils-coreos
   # Active Directory support
   - adcli
+  - avahi-autoipd
   # Additional firewall support; we aren't including these in RHCOS or they
   # don't exist in RHEL
   - iptables-nft iptables-services
